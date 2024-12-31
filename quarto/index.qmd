@@ -1,0 +1,35 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/my_image.jpg"
+  links:
+    - icon: twitter
+      text: Twitter
+      href: This is Lu Xianzhou's GitHub
+    - icon: github
+      text: Github
+      href: This is Lu Xianzhou's GitHub
+    - icon: linkedin
+      text: LinkedIn
+      href: This is Lu Xianzhou's GitHub
+    - icon: envelope
+      text: Email
+      href: This is Lu Xianzhou's GitHub
+---
+
+::: {#about-block}
+:::
+
+# Welcome to my website!
+Hello everyone, I'm Lu Xianzhou, a passionate learner and practitioner.
+I specialize in the field of technology, constantly exploring new knowledge and dedicated to applying what I've learned into practical use. 
+ I value teamwork and believe that collective efforts can create greater value.
+ I also love sports. Through sports, I can not only keep my body healthy but also feel vitality and passion in the process of sweating.
+I am very glad to introduce myself here. I hope that in the future, I can become friends with you and spend wonderful times together.
+<div  style="margin: 30px; text-align: center;">
+<a class="btn btn-primary" href="" role="button" target="_blank" style="padding: 15px 30px;">luxianzhou</a>
+</div>
+```
+
+
